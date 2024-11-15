@@ -1,3 +1,12 @@
+'''
+DeepLabV3Plus-Pytorch onnxruntime推理
+----------------------------------------------
+@作者: gx
+@邮箱: gaoxukkk@qq.com
+@创建日期：2024年11月15日
+'''
+
+
 import onnxruntime
 import cv2
 import numpy as np
