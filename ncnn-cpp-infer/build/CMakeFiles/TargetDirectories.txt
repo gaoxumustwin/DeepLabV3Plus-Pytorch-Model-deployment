@@ -1,0 +1,3 @@
+/mnt/d/Users/XueLi_G/Desktop/尝试部署的模型/DeepLabV3Plus/ncnn-cpp-infer/build/CMakeFiles/deeplabv3plus.dir
+/mnt/d/Users/XueLi_G/Desktop/尝试部署的模型/DeepLabV3Plus/ncnn-cpp-infer/build/CMakeFiles/edit_cache.dir
+/mnt/d/Users/XueLi_G/Desktop/尝试部署的模型/DeepLabV3Plus/ncnn-cpp-infer/build/CMakeFiles/rebuild_cache.dir
